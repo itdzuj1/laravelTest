@@ -67,6 +67,9 @@
     </expand>
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
@@ -237,7 +240,7 @@
       <workItem from="1580109646927" duration="1089000" />
       <workItem from="1580798660623" duration="744000" />
       <workItem from="1580996284886" duration="311000" />
-      <workItem from="1581078379102" duration="1029000" />
+      <workItem from="1581078379102" duration="1486000" />
     </task>
     <servers />
   </component>
