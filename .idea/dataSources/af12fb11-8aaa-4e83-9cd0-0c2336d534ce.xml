@@ -18,9 +18,9 @@
       <Owner>postgres</Owner>
       <IntrospectionStateNumber>98582</IntrospectionStateNumber>
       <Current>1</Current>
-      <Relations>sequence|table|55959|55961|1
-sequence|table|55973|55975|1
+      <Relations>sequence|table|55973|55975|1
 sequence|table|55928|55930|1
+sequence|table|55959|55961|1
 sequence|table|55948|55950|1
 sequence|table|55707|55709|1
 </Relations>
@@ -191,6 +191,7 @@ sequence|table|55707|55709|1
     </sequence>
     <table id="32" parent="19" name="blog_categories">
       <ObjectId>55961</ObjectId>
+      <Outdated>1</Outdated>
       <Owner>mediacube</Owner>
       <StateNumber>98477</StateNumber>
     </table>
