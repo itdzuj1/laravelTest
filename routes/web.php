@@ -31,4 +31,9 @@ Route::group(['namespace' => 'Blog\Admin', 'prefix' => 'admin/blog'], function (
     Route::resource('categories', 'CategoryController')
         ->only(['index', 'create', 'store', 'edit', 'update'])
         ->names('blog.admin.categories');
+
+    //BlogPost
+    Route::resource('posts', 'PostController')
+        ->except(['show'])
+        ->names('blog.admin.posts');
 });
