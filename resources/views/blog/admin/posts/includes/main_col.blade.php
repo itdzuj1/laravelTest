@@ -30,7 +30,6 @@
                                 type="text"
                                 class="form-control"
                                 minlength="3"
-                                required
                             >
                         </div>
 
