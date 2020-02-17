@@ -68,7 +68,7 @@ class BlogPostObserver
         //
     }
 
-    public function forceDeleted(BlogPost $modelsBlogpost)
+    public function forceDeleted(BlogPost $blogPost)
     {
         //
     }

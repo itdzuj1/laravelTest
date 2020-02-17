@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43d7aecd-0f7a-4c5e-8b68-fbd3180f2be0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/BlogPostCreateRequest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/af12fb11-8aaa-4e83-9cd0-0c2336d534ce.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/af12fb11-8aaa-4e83-9cd0-0c2336d534ce.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/PostController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Models/BlogCategory.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/BlogCategory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/BlogPost.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/BlogPost.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Observers/BlogPostObserver.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Observers/BlogPostObserver.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Repositories/BlogCategoryRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Repositories/BlogCategoryRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/blog/admin/categories/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/admin/categories/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/blog/admin/posts/includes/main_col.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/admin/posts/includes/main_col.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/blog/admin/posts/includes/result_message.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/admin/posts/includes/result_message.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/blog/admin/posts/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/admin/posts/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +264,8 @@
       <workItem from="1581841132870" duration="1003000" />
       <workItem from="1581877711112" duration="608000" />
       <workItem from="1581925309058" duration="50000" />
-      <workItem from="1581929892501" duration="1926000" />
+      <workItem from="1581929892501" duration="3136000" />
+      <workItem from="1581934840329" duration="1541000" />
     </task>
     <servers />
   </component>
@@ -325,10 +320,10 @@
     <state x="640" y="524" width="867" height="1212" key="find.popup/67.0.1853.2160@67.0.1853.2160" timestamp="1581259194123" />
     <state x="640" y="283" width="707" height="538" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580798744927" />
     <state x="640" y="312" width="866" height="606" key="find.popup/67.27.1853.1173/0.1200.1920.1080@67.27.1853.1173" timestamp="1581088150511" />
-    <state x="700" y="306" width="672" height="160" key="search.everywhere.popup" timestamp="1581433393926">
+    <state x="700" y="306" width="672" height="160" key="search.everywhere.popup" timestamp="1581932224540">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state x="493" y="1334" width="945" height="713" key="search.everywhere.popup/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1581242479765" />
-    <state x="700" y="306" width="672" height="160" key="search.everywhere.popup/67.27.1853.1173/0.1200.1920.1080@67.27.1853.1173" timestamp="1581433393926" />
+    <state x="700" y="306" width="672" height="160" key="search.everywhere.popup/67.27.1853.1173/0.1200.1920.1080@67.27.1853.1173" timestamp="1581932224540" />
   </component>
 </project>
